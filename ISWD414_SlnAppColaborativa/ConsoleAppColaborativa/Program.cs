@@ -14,6 +14,7 @@
             Console.WriteLine("Hello, Jonathan Angulo");
             Console.WriteLine("Hola, Oscar Tumbaco");
             Console.WriteLine("Hola, Paul Salas");
+            Console.WriteLine("Hola, Sebastián Sánchez");
         }
     }
 }
