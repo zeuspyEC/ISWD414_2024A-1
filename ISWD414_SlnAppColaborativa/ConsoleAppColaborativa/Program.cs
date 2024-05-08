@@ -9,6 +9,7 @@
             Console.WriteLine("Hola, DylanGranizo");
             Console.WriteLine("Hola, Andreina Pallo")
             Console.WriteLine("Hola, Erick Mideros")
+            Console.WriteLine("Hola, Soy David Valencia");
         }
     }
 }
