@@ -12,7 +12,7 @@
             Console.WriteLine("Hola, Soy David Valencia");
             Console.WriteLine("Hola, soy Gabriel Vasconez");
             Console.WriteLine("Hello, Jonathan Angulo");
-            Console.WriteLine("Hola, Oscar Tumbaco")
+            Console.WriteLine("Hola, Oscar Tumbaco");
         }
     }
 }
