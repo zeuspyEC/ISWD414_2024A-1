@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World. Víctor Velepucha");
             Console.WriteLine("Hola, Kevin Quishpe");
             Console.WriteLine("Hola, DylanGranizo");
             Console.WriteLine("Hola, Andreina Pallo");
