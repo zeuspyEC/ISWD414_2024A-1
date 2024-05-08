@@ -12,7 +12,7 @@ namespace ConsoleAppColaborativa
             Console.WriteLine("Hola, DylanGranizo");
             Console.WriteLine("Hola, Andreina Pallo")
             Console.WriteLine("Hola, Erick Mideros")
-            Console.WriteLine("Hi, Juan Naranjo");
+            Console.WriteLine("Hola, Juan Naranjo")
 
         }
     }
