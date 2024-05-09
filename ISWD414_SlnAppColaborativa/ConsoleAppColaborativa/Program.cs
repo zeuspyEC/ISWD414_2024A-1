@@ -27,6 +27,7 @@ namespace ConsoleAppColaborativa
 >>>>>>> 99dec1d3ff9d14be764ee201e9b5067314d6f113
 
             Console.WriteLine("Holi, soy Doménica Camila Sánchez :3");
+            Console.WriteLine("Hola, soy Jonathan Luzuriaga :)");
         }
     }
 }
