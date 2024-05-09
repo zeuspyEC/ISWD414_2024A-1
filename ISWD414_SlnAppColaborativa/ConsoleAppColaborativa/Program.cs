@@ -20,6 +20,7 @@ namespace ConsoleAppColaborativa
             Console.WriteLine("Hola, Juan Naranjo");
             Console.WriteLine("Hi, i'm Daniel Mera!!!");
             Console.WriteLine("Hey, i'm Martin Posso");
+            Console.WriteLine("Hola, soy Franchesco Gallegos");
         }
     }
 }
