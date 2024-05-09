@@ -30,6 +30,8 @@ namespace ConsoleAppColaborativa
             Console.WriteLine("Hola, soy Jonathan Luzuriaga :)");
             Console.WriteLine("Hola, soy Bryan Salazar :)");
 
+
+
         }
     }
 }
